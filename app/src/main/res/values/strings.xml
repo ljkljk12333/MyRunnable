@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Runnable</string>
+
+    <string name="wait_to_start">吃水果</string>
+    <string name="btn_String">Start</string>
+    <string name="action_settings">Settings</string>
+</resources>
